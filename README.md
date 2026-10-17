@@ -1,4 +1,5 @@
 # Predict-The-Onset-of-Diabetes-Based-on-Diagnostic-Data
-A DA\DS project
+
+gitA DA\DS project
 <br>
-Author - Sachin Sahu
+Author - Sachin Sahu (Pharma)
